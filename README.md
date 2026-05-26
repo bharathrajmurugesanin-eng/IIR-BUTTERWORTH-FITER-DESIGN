@@ -97,6 +97,10 @@ PC installed with SCILAB.
 ## OUTPUT (LPF) : 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/d500194b-2c84-45cc-babc-ea93eee97820" />
 
+
+
+
+
 ## OUTPUT (HPF) : 
 <img width="765" height="725" alt="image" src="https://github.com/user-attachments/assets/da6765c3-11da-4ee9-8a0a-5275ccb7f81c" />
 
